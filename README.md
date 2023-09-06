@@ -1,12 +1,13 @@
 Screenshot 1: Character and UI Elements
-
+![image](https://github.com/Durand-P/Dragos_Quest_GameDev/assets/101646966/d32a220f-75ce-4f36-b235-b18b8af156b3)
 
 In this screenshot, you can see our main character, Drago, along with dynamic UI elements. 
 The life bar is uniquely represented by eggs, and there's also a life counter and an egg tracker. 
 These elements not only add to the game's aesthetic but also provide real-time feedback to the player.
 
 Screenshot 2: Collectable Items and Group Dynamics
-Screenshot 2
+![image](https://github.com/Durand-P/Dragos_Quest_GameDev/assets/101646966/f596b0b1-ddb4-471f-bc0a-73796dfb43f7)
+
 This screenshot showcases the collectable items scattered throughout the game environment. 
 These items were developed in Unity and coded using C#. 
 The inclusion of collectables was a group decision, highlighting our team's collaborative spirit and diversity.
